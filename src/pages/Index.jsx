@@ -9,7 +9,7 @@ const Index = () => {
           Katana Robotics
         </Heading>
         <Text fontSize="xl">Innovative Exoskeleton Solutions for Enhanced Human Performance</Text>
-        <Image src="https://images.unsplash.com/photo-1535378273068-9bb67d5beacd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxyb2JvdGljJTIwZXhvc2tlbGV0b258ZW58MHx8fHwxNzE1NjAwNTc4fDA&ixlib=rb-4.0.3&q=80&w=1080" alt="Exoskeleton" boxSize="300px" objectFit="cover" />
+        <Image src="https://images.unsplash.com/photo-1535378273068-9bb67d5beacd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxyb2JvdGljJTIwZXhvc2tlbGV0b258ZW58MHx8fHwxNzE1NjAwNTc4fDA&ixlib=rb-4.0.3&q=80&w=1080" alt="Exoskeleton" boxSize="100vw 100vh" objectFit="cover" />
         <Box p={4}>
           <Heading as="h2" size="lg">
             Our Models
